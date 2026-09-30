@@ -3,9 +3,3 @@
 <p align="center">
   <i>“Kodunda sadelik, işinde dürüstlük, hayatında iyilik bırak.”</i>
 </p>
-
-![GitHub Contributions 2021](./contributions-2021.png)
-
-<!--
-**mustafabirhatgemsiz/mustafabirhatgemsiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
